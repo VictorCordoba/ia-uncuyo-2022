@@ -1,6 +1,8 @@
 # TRABAJO PRATICO N°1 
 ## CORDOBA VICTOR - 12480
 
+Mapa: https://www.mindomo.com/mindmap/b9ee6a8135414b7e9a45ac07341b8af9
+
 ### **FUNDAMENTOS FILOSOFICOS**
 Los filosofos definen la hipotesis de la IA debil como la afirmacion que es posible que las maquinas *actuen* con inteligencia, o mas bien como si fueran inteligentes y tambien existe la hipotesis de la IA Fuerte que afirma que las maquinas *piensan* realmente
 
